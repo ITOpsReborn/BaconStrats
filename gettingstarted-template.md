@@ -4,7 +4,7 @@
 
 To load a template. Select “Templates”
 
-<img src="/assets/gettingstarted-tempalte.png" width="40%" >
+<img src="/assets/gettingstarted-template.png" width="40%" >
 
 Select the “Market Templates” tab, then select the gear next to the template you want to load and click “Load Template”.
 
