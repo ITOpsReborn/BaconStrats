@@ -17,8 +17,8 @@ Select your Exchange
 
 Connect your Exchange by entering your API Key and API Secret. These will be obtained from your Exchange
 
-https://docs.cryptohopper.com/tutorials/
-https://docs.cryptohopper.com/docs/en/Tutorials/connect-your-bot-to-binance-us/ 
+https://docs.cryptohopper.com/tutorials/ </br>
+https://docs.cryptohopper.com/docs/en/Tutorials/connect-your-bot-to-binance-us/ </br>
 
 <img src="/assets/createhopper-exchangeconfig.png" width="50%">
 
@@ -28,6 +28,6 @@ Select “Select a template” and click Next
 
 Select a Template for your Exchange. For US customers we recommend “Binance US|USD”
 
-<img src="/assets/createhopper-baseconfig" width="50%">
+<img src="/assets/createhopper-baseconfig.png" width="50%">
 
 Click Next and save your hopper. Keep your hopper disabled until your Strategy and Template have been loaded.
