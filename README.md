@@ -5,9 +5,9 @@ Thanks again for your support!
 
 THe below links will be best in order
 
-[Getting Started: Create Your Hopper](https://github.com/ITOpsReborn/BaconStrats/create-hopper.md) </br>
-[Getting Started: Strategy](https://github.com/ITOpsReborn/BaconStrats/gettingstarted-strategy.md) </br>
-[Getting Started: Template](gettingstarted-template.md)
+[Getting Started: Create Your Hopper](/blob/main/create-hopper.md) </br>
+[Getting Started: Strategy](/blob/main/gettingstarted-strategy.md) </br>
+[Getting Started: Template](/blob/main/gettingstarted-template.md)
 
 </br>
 
